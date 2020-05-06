@@ -16,5 +16,11 @@ module.exports={
             template:"./src/index.html"
         })
     ],
-    mode:'production'
+    mode:'production',
+    devServer:{
+        contentBase:resolve(__dirname,'build'),
+        compress:true,
+        port:8080,
+        open:true
+    }
 }
