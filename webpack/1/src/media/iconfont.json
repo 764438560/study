@@ -1,0 +1,72 @@
+{
+  "id": "1560698",
+  "name": "dxyt_mdm",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13073704",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13009288",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1011816",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "32477",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "9648451",
+      "name": "企业",
+      "font_class": "qiye",
+      "unicode": "ed45",
+      "unicode_decimal": 60741
+    },
+    {
+      "icon_id": "9201845",
+      "name": "认证",
+      "font_class": "renzheng",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "771960",
+      "name": "角色",
+      "font_class": "role",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "3113097",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "10085715",
+      "name": "log",
+      "font_class": "log",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
