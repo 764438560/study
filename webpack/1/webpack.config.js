@@ -30,7 +30,7 @@ module.exports={
                 loader:'html-loader'
             },
             {
-                exclude:/\.(css|js|html)$/,
+                exclude:/\.(css|js|html|less|jpg|png|gif)$/,
                 loader:'file-loader'
             }
         ]
